@@ -1,5 +1,7 @@
 # weatherapp
 
+WeatherApp inspired from youtube channel and modified by Crosbydev 
+
 A new Flutter project.
 
 ## Getting Started
